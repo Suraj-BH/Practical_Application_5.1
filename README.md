@@ -1,6 +1,7 @@
 # Practical_Application_5.1
 Required Assignment 5.1: Will the Customer Accept the Coupon?
 
+Link to [https://github.com/Suraj-BH/Practical_Application_5.1/blob/main/Assignment_module_5.ipynb]
 
 ## Findings
 
@@ -35,4 +36,26 @@ Coupons see higher traction among specific demographic segments, such as non wid
 2. The Behavior: Applying these exact same rules to Coffee House coupons creates a much more dramatic shift. Coffee consumption is highly sensitive to the age bracket (under 30) and social context (no kids) outlined in the criteria.
 3. Takeaway: Normally, giving out a coffee coupon is a coin toss—about 50% of people take it and 50% ignore it. But when you use these rules to target young people without kids or budget conscious drivers, your success rate shoots way up. You are perfectly hitting the exact crowd that wants a quick afternoon caffeine boost or a cheap place to hang out with friends.
 
-Link to [https://github.com/Suraj-BH/Practical_Application_5.1/blob/main/Assignment_module_5.ipynb]
+
+**Next Steps and Recommendations**
+
+1. Target the Right Age Groups
+   
+- Focus on older drivers (over 25): They are already highly likely to say yes, so make sure they get plenty of coupons.
+- Change the message for under 30s: Young drivers need a different hook. Instead of just showing a discount, pitch the coupon as a fun night out or a unique experience.
+
+2. Use Peer Pressure (The Social Factor)
+   
+- Encourage group hangouts: Create deals like "buy one, get one free" or "bring a friend" to get people to go out together.
+- Use referral rewards: Give drivers a bonus discount if they send the coupon to a friend, since people love going to bars and coffee shops in groups.
+
+3. Offer the Right Deals to Budget Shoppers
+   
+- Partner with cheap venues: Send deals for affordable, casual spots to drivers with lower incomes, since they are actively looking to save money.
+
+4. Fix the Deals for Regular Customers
+   
+- Change what you offer regulars: People who already go out a lot actually reject standard coupons more often. Stop giving them basic discounts and switch to loyalty points, VIP treatment, or free upgrades to keep them interested.
+
+5. Test Personalized Coupons
+- Make it personal: Stop sending the same coupon to everyone. Use what you know about a driver like their age, if they have kids in the car, or where they are driving to text them a coupon they will actually use.
