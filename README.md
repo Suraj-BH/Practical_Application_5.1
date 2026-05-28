@@ -4,7 +4,7 @@ Required Assignment 5.1: Will the Customer Accept the Coupon?
 
 ## Findings
 
-** Bar Coupons **
+**Bar Coupons**
 
 1. The Power of Existing Habits:
 Frequent bar-goers (visiting more than 3 times a month) are highly receptive to coupons, accepting them at nearly double the rate of infrequent visitors (~76% vs ~37%). This indicates that coupons act as a financial optimization for existing routines rather than a tool to incentivize new behaviors.
@@ -22,14 +22,14 @@ Lower income drivers who frequent cheap restaurants are highly price sensitive a
 Coupons see higher traction among specific demographic segments, such as non widowed drivers and individuals working outside traditional primary industries like farming, fishing, or forestry. This highlights how heavily a driver's daily lifestyle, occupational rhythm, and personal circumstances dictate their willingness to accept an immediate detour.
 
 
-** Carry Out & Take Away Coupons **
+**Carry Out & Take Away Coupons**
 
 1. The Verdict: Low Targeting Value (Universal Appeal)
 2. The Behavior: This specific multi conditional criteria captures a massive portion of the population that already buys takeout. Because the baseline population acceptance rate is already incredibly high (~70.1%), this targeted group only crawls up to 74.4%.
 3. Takeaway: You do not need complex filtering or age/income rules for Carry Out. Convenience is king, everyone needs to eat, and almost any driver will accept this coupon regardless of constraints.
 
   
-** Coffee House Coupons **
+**Coffee House Coupons**
 
 1. The Verdict: High Targeting Value (Niche Alignment)
 2. The Behavior: Applying these exact same rules to Coffee House coupons creates a much more dramatic shift. Coffee consumption is highly sensitive to the age bracket (under 30) and social context (no kids) outlined in the criteria.
